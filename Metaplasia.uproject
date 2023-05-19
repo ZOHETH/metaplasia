@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{01DC853F-4D30-CC8C-37ED-689E42E94416}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Metaplasia",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
